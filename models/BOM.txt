@@ -1,0 +1,6 @@
+Qty	Name			Url
+20	6x3mm Magnet		https://amzn.to/3XxGH4C
+5	M3x8 BHCS		https://amzn.to/3Dpx419
+2	M3x10 SHCS		https://amzn.to/3QP9duO
+4	M3x6 FHCS		https://amzn.to/3XwpQiB
+10	2x30mm Pin		https://amzn.to/3XwpIj7
